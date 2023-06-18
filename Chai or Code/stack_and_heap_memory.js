@@ -2,7 +2,7 @@
 
 let myyoutubeType="Gaming";
 let anotherType = myyoutubeType;
-anotherType = "Codeing"
+anotherType = "Coding"
 
 
 console.log(anotherType);
